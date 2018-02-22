@@ -99,6 +99,8 @@ textarea {
 
 html, body {
     font-family: 'Proza Libre', sans-serif;
+    color: #503B3E;
+    background: #D9DFE9;
 }
 
 h1, h2, h3, h4, h5, h6 {
