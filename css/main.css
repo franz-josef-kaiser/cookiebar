@@ -107,6 +107,11 @@ h1, h2, h3, h4, h5, h6 {
     font-family: 'Cormorant Garamond', serif;
 }
 
+.header {
+    background: url("https://franz-josef-kaiser.github.io/cookiebar/img/forrest.jpg");
+    background-size: contain;
+}
+
 .content {
     max-width: 800px;
 }
