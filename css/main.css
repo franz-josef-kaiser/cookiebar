@@ -100,7 +100,7 @@ textarea {
 html, body {
     font-family: 'Proza Libre', sans-serif;
     color: #503B3E;
-    background: #D9DFE9;
+    background: #fff;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -122,6 +122,7 @@ header, .header {
     background: url("https://franz-josef-kaiser.github.io/cookiebar/img/foret.jpg?no-cache");
     background-size: cover;
     min-height: 600px;
+    border: 20px solid #fff;
 }
 
 main, .content {
