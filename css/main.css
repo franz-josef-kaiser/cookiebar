@@ -126,8 +126,23 @@ header, .header {
 }
 
 main, .content {
-    margin: 5% auto;
+    margin: 5% auto 2.5%;
     max-width: 1020px;
+}
+
+footer {
+    max-width: 20%;
+    margin: 0 auto 2.5%;
+}
+
+#cookie_bar {
+    min-height: 100px;
+    width: 100%;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    color: #fff;
+    background: #373741;
 }
 
 /* ==========================================================================
