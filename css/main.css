@@ -112,6 +112,7 @@ h1 {
     margin: 200px auto;
     font-size: 8rem;
     text-align: center;
+    opacity: 0.62;
 }
 h2 { font-size: 2.5rem; }
 
