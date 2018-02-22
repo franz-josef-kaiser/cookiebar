@@ -136,13 +136,20 @@ footer {
 }
 
 #cookie_bar {
-    min-height: 100px;
     width: 100%;
     position: fixed;
     bottom: 0;
     left: 0;
     color: #fff;
     background: #373741;
+    padding: 1%;
+}
+#cookie_bar_button_id {
+    background: #fff;
+    text-decoration: none;
+    padding: 0.2% 0.5%;
+    display: inline-block;
+    color: #373741;
 }
 
 /* ==========================================================================
